@@ -1,11 +1,16 @@
+let num1 = 23;
+let num2 = 33.09;
+// let addition = num1 + num2;
+// console.log(addition);
+
 // Round
-// console.log(Math.round(addition)); // 80
-// console.log(Math.round(12.000012));
+// console.log(Math.round(addition)); // 56
+// console.log(Math.round(12.000012));//12
 // console.log(Math.PI); // 3.141592653589793
 
 // Square root
-// console.log(num1 ** 2); //625 (Pow)
-// console.log(num1 ** 3);
+// console.log(num1 ** 2); //529 (Pow)
+// console.log(num1 ** 3); 
 // console.log(Math.pow(35, 2)); // 1225
 // console.log(Math.pow(5, 3)); // 125
 // console.log(Math.sqrt(16)); // Square root
@@ -15,26 +20,24 @@
 
 // Floor
 // console.log(Math.floor(98.75)); // 98
-
 // console.log(Math.ceil(325.49)); // 326
 // console.log(Math.floor(325.49)); // 325
 // console.log(Math.ceil(325.01));
 // console.log(Math.floor(325.01));
-
 // console.log(Math.round(325.4)); // 325
 // console.log(Math.round(325.5)); // 326
 // console.log(Math.round(325.8)); // 326
 
 // Max
 // console.log(Math.max(10, 20, 30, 40, 50)); // 50
-// Min
+//Min
 // console.log(Math.min(10, 20, 30, 40, 50)); // 10
 
 // Absolute
 // console.log(Math.abs(-10)); // 10
 // console.log(Math.abs(-0.00005)); // 0.00005
 
-// Random(0 to 1)
+//Random(0 to 1)
 // console.log(Math.random()); // 0.721127982167951
 // console.log(Math.random()); // 0.5154888882259359
 // console.log(Math.random()); // 0.7846246321547545
@@ -44,7 +47,7 @@
 let start = 5;
 let end = 27;
 // ((end - start)+1) -> To find out the numbers
-let totalNumbers = end - start + 1; // 23
+// let totalNumbers = end - start + 1; // 23
 // console.log(Math.random() * totalNumbers); // 9.688561790447048 ( 0 to 23)
 // console.log(Math.random() * totalNumbers); // 4.376674485394604
 // console.log(Math.random() * totalNumbers); // 12.360215644092321
