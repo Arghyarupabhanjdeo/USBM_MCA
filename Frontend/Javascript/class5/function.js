@@ -11,7 +11,7 @@
 //     `my name is ${name} and i live in ${city} and i am ${age}years old`
 //   );
 // }
-// printName("dikshya", "bbsr", 50);
+// printName("Dikshya", "bbsr", 50);
 
 
 
