@@ -1,4 +1,5 @@
 //Task: diffrence between push(),pop(),,shift(),unshift() with proper defination and example
+
 //push()
 const fruits = ["Banana", "Orange", "Apple", "Mango"];
 fruits.push("Pineapple");
@@ -11,9 +12,12 @@ fruits.pop();
 console.log(fruits2); // Output: ["Banana", "Orange", "Apple"]
 
 //unshift()
+
 const fruits3 = ["Banana", "Orange", "Apple", "Mango"];
 fruits.unshift("Pineapple");
 console.log(fruits3); // Output: ["Pineapple", "Banana", "Orange", "Apple", "Mango"]
+
+//splice()
 
 //shift()
 const fruits1 = ["Banana", "Orange", "Apple", "Mango"];
