@@ -1,0 +1,19 @@
+/* App.css */
+.App-header {
+  background-color: #2f4166;
+  color: white;
+  padding: 15px;
+  font-size: 2rem;
+  text-align: center;
+  position: fixed;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+.App-header h1 {
+  margin: 0;
+  font-size: 2.5rem;
+}
